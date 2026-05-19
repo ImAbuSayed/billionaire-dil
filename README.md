@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/billionaire-dil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Billionaire Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/billionaire-dil/) |
+| **Get License** | [Get License For Billionaire Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/billionaire-dil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `89b8d1818970dd5c6534b1dd3f572514611ab67980e6de3341dd81ef7b5bc27a` |
 | **Timestamp** | May 19, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
