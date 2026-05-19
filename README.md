@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/billionaire-dil/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Billionaire Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/billionaire-dil/) |
+| **Get License** | [License this song: Billionaire Dil](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/billionaire-dil/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaali raat ch lishke teri dark appeal
+> Main aashiq baneya haan catch the feel
+> Mere seene vich dhadke billionaire dil
+> Tainu takda hi rawan make a deal
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
